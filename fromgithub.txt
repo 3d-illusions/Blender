@@ -1,0 +1,1 @@
+thisis from github fetched it should only update the repository (local commits) and not the working area or staged area.
